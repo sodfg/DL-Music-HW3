@@ -1,0 +1,50 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Downloaded datasets, model weights, and caches
+data/
+datasets/
+audio_mp3/
+models/
+checkpoints/
+.cache/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.zip
+*.tar
+*.tar.gz
+*.crdownload
+*.part
+
+# Generated audio and experiment artifacts
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+outputs/
+output/
+runs/
+logs/
+*.log
+
+# Course handout and released test data stay local
+/Homework_3.pdf
+/sample_code/test.csv
+
+# Editor and OS temporary files
+.DS_Store
+*.swp
