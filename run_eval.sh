@@ -16,13 +16,13 @@ grep -q music_audioset_epoch_15_esc_90.14.pt $AVB/av_bench/extraction_models.py
 # extract_text.py resolves weights/ one level above the repo (external/weights), so point that at the same folder.
 [ -e external/weights ] || ln -s av-benchmark/weights external/weights
 
-$PY prepare_eval.py --pred "$PRED" --exp "$EXP" --eval_dir $EVAL
+"$PY" prepare_eval.py --pred "$PRED" --exp "$EXP" --eval_dir $EVAL
 
 # Caption embeddings, shared by all experiments
 [ -f $EVAL/gt_cache/clap_laion_text.pth ] || \
-    (cd $AVB && $PY extract_text.py --text_csv ../../$EVAL/text.csv --output_cache_path ../../$EVAL/gt_cache)
+    (cd $AVB && "$PY" extract_text.py --text_csv ../../$EVAL/text.csv --output_cache_path ../../$EVAL/gt_cache)
 
-(cd $AVB && $PY evaluate.py --gt_audio ../../$EVAL/gt_wav --gt_cache ../../$EVAL/gt_cache \
+(cd $AVB && "$PY" evaluate.py --gt_audio ../../$EVAL/gt_wav --gt_cache ../../$EVAL/gt_cache \
     --pred_audio ../../$EVAL/$EXP/pred_wav --pred_cache ../../$EVAL/$EXP/pred_cache \
     --audio_length 10 --skip_video_related --num_workers 8)
 
