@@ -48,3 +48,5 @@ logs/
 # Editor and OS temporary files
 .DS_Store
 *.swp
+external/
+.venv-eval/
