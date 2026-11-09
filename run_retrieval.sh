@@ -8,6 +8,7 @@ CKPT=external/av-benchmark/weights/music_audioset_epoch_15_esc_90.14.pt
 [ -x .venv-eval/bin/python ] || uv venv --python 3.11 .venv-eval
 uv pip install --python .venv-eval/bin/python torch==2.11.0 torchaudio==2.11.0 torchvision --index-url https://download.pytorch.org/whl/cu128
 uv pip install --python .venv-eval/bin/python -e external/av-benchmark
+uv pip install --python .venv-eval/bin/python "transformers<5"  # MS-CLAP needs tokenizer.encode_plus (removed in 5.x)
 mkdir -p "$(dirname "$CKPT")"
 wget -nv -c -O "$CKPT" https://huggingface.co/lukewys/laion_clap/resolve/main/music_audioset_epoch_15_esc_90.14.pt
 
