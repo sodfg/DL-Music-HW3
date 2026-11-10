@@ -20,6 +20,8 @@ grep -q music_audioset_epoch_15_esc_90.14.pt $AVB/av_bench/extraction_models.py
     https://github.com/hkchengrex/MMAudio/releases/download/v0.1/synchformer_state_dict.pth
 
 "$PY" prepare_eval.py --pred "$PRED" --exp "$EXP" --eval_dir $EVAL
+# av-benchmark retries a failed load forever (and floods the log), so fail fast if torchaudio cannot read wavs.
+"$PY" -c "import torchaudio; torchaudio.load('$EVAL/gt_wav/0.wav'); torchaudio.load('$EVAL/$EXP/pred_wav/0.wav')"
 
 # Caption embeddings, shared by all experiments
 [ -f $EVAL/gt_cache/clap_laion_text.pth ] || \
