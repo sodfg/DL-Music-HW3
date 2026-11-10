@@ -15,6 +15,9 @@ sed -i 's/music_speech_audioset_epoch_15_esc_89.98.pt/music_audioset_epoch_15_es
 grep -q music_audioset_epoch_15_esc_90.14.pt $AVB/av_bench/extraction_models.py
 # extract_text.py resolves weights/ one level above the repo (external/weights), so point that at the same folder.
 [ -e external/weights ] || ln -s av-benchmark/weights external/weights
+# Loaded unconditionally by av-benchmark even with --skip_video_related (README step 4).
+[ -f $AVB/weights/synchformer_state_dict.pth ] || wget -nv -O $AVB/weights/synchformer_state_dict.pth \
+    https://github.com/hkchengrex/MMAudio/releases/download/v0.1/synchformer_state_dict.pth
 
 "$PY" prepare_eval.py --pred "$PRED" --exp "$EXP" --eval_dir $EVAL
 
