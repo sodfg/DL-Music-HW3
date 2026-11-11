@@ -1,0 +1,774 @@
+{
+ "0": [
+  "rap music",
+  "steady drum machine beat",
+  "subtle synth pads",
+  "sparse electric guitar",
+  "reflective, introspective mood",
+  "tight, repetitive rhythm"
+ ],
+ "1": [
+  "vibraphone",
+  "piano",
+  "synth pads",
+  "ambient tone",
+  "soft, resonant tones",
+  "spacious, dreamy texture",
+  "calm, reflective mood"
+ ],
+ "2": [
+  "mysterious club track",
+  "deep pulsing bass",
+  "steady rhythm",
+  "subtle atmospheric textures",
+  "crisp snare",
+  "shimmering synth pad",
+  "enigmatic mood",
+  "immersive vibe"
+ ],
+ "3": [
+  "retro rock music",
+  "solid bass line",
+  "gritty guitar tone",
+  "punchy drum kit",
+  "nostalgic mood",
+  "raw, authentic feel",
+  "steady, timeless groove",
+  "electric piano"
+ ],
+ "4": [
+  "hiphop music",
+  "relaxed mood",
+  "subtle cymbal shimmer",
+  "smooth beat",
+  "soft rhythmic flow",
+  "warm electric piano",
+  "light upright bass",
+  "minimalistic arrangement"
+ ],
+ "5": [
+  "alternative rock music",
+  "bright acoustic guitar",
+  "crisp electric bass",
+  "driving drum kit",
+  "upbeat tempo",
+  "memorable melody",
+  "infectious rhythms"
+ ],
+ "6": [
+  "chaotic noise soundscape",
+  "warm Rhodes",
+  "deep sub-bass",
+  "textured field recordings",
+  "dense atmosphere",
+  "dissonance",
+  "ambient texture",
+  "raw tone"
+ ],
+ "7": [
+  "mysterious hardrock",
+  "tense strings",
+  "electrified guitar riffs",
+  "pulsing bass line",
+  "crisp drum hits",
+  "resonant electric guitar",
+  "haunting, shimmering texture",
+  "dark, unresolved mood"
+ ],
+ "8": [
+  "retro techno",
+  "crisp drums",
+  "温暖合成器垫音",
+  "稳定的贝斯线",
+  "怀旧氛围",
+  "舞池 ready 情绪",
+  "polished 但真实的电子感"
+ ],
+ "9": [
+  "acoustic guitar soundtrack",
+  "calm background mood",
+  "soft piano",
+  "gently cello",
+  "natural tone",
+  "relaxed atmosphere",
+  "non-intrusive"
+ ],
+ "10": [
+  "popfolk music",
+  "epic mood",
+  "warm, melodic guitar",
+  "acoustic upright bass",
+  "soft pedal steel",
+  "timeless folk charm",
+  "bright, anthemic energy"
+ ],
+ "11": [
+  "experimental music",
+  "haunting vibraphone",
+  "delicate piano textures",
+  "subtle cello resonance",
+  "tonal nuance",
+  "spatial depth",
+  "minimalistic phrasing",
+  "ambient reverberation"
+ ],
+ "12": [
+  "melodic fusion",
+  "warm atmospheric pad",
+  "smooth saxophone",
+  "steady electric piano",
+  "flowing, expressive composition",
+  "relaxed, inviting vibe"
+ ],
+ "13": [
+  "folk music",
+  "rhythmic drum machine",
+  "communication theme",
+  "simple, repetitive patterns",
+  "open-ended melodies",
+  "grounded, heartfelt mood",
+  "warm sound quality",
+  "acoustic guitar"
+ ],
+ "14": [
+  "folk music",
+  "acoustic guitar arpeggios",
+  "mandolin",
+  "fiddle",
+  "peaceful atmosphere",
+  "rooted in tradition",
+  "quiet beauty"
+ ],
+ "15": [
+  "strange house music",
+  "rhythmic sampler loop",
+  "subtle synth pads",
+  "warm, pulsing bassline",
+  "eerie atmosphere",
+  "unpredictable groove",
+  "dissonant textures",
+  "challenging warmth"
+ ],
+ "16": [
+  "house music",
+  "nostalgic mood",
+  "warm Rhodes keys",
+  "steady four-on-the-floor beat",
+  "subtle bassline",
+  "rich analog texture",
+  "clean drum machine",
+  "soft, resonant synth pad"
+ ],
+ "17": [
+  "orchestral music",
+  "dreamy atmosphere",
+  "delicate sampler",
+  "lush strings",
+  "soft, shimmering piano",
+  "serene, ethereal mood",
+  "distant echoes",
+  "gentle textures"
+ ],
+ "18": [
+  "Instrumental music",
+  "Driving beat",
+  "Deep emotional response",
+  "Powerful drum kit",
+  "Resonant bass",
+  "Crisp electric guitar",
+  "Tense atmosphere",
+  "Raw intensity"
+ ],
+ "19": [
+  "Atmospheric music",
+  "Catching vibe",
+  "Deep bass",
+  "Warm synth pads",
+  "Subtle ambient textures",
+  "Smooth, engaging soundscape",
+  "Gentle, melodic pull"
+ ],
+ "20": [
+  "house music",
+  "smooth electric guitar",
+  "lush synth pads",
+  "steady four-on-the-floor beat",
+  "warm, inviting atmosphere",
+  "gentle groove",
+  "flowing melodies"
+ ],
+ "21": [
+  "vibrant dance track",
+  "energetic drums",
+  "pulsing synth bass",
+  "bright acoustic guitar",
+  "lively, sun-soaked spirit",
+  "rhythmic, foot-tapping groove",
+  "室内的脉动节奏"
+ ],
+ "22": [
+  "worldfusion music",
+  "bright guitar",
+  "pulse percussion",
+  "lively drum kit",
+  "vibrant tabla",
+  "resonant synth bass",
+  "infectious groove",
+  "celebratory mood"
+ ],
+ "23": [
+  "folkrock",
+  "bluesrock",
+  "rhythmic drum machine",
+  "warm guitar tones",
+  "steady acoustic bass",
+  "laid-back atmosphere",
+  "rootsy vibe",
+  "simple, organic patterns"
+ ],
+ "24": [
+  "orchestral music",
+  "rich, expressive viola",
+  "lush string section",
+  "steady piano accompaniment",
+  "dynamic, adventurous mood",
+  "energetic, immersive atmosphere",
+  "action-oriented exploration",
+  "layered textures"
+ ],
+ "25": [
+  "rock music",
+  "dramatic mood",
+  "rich, shimmering Rhodes piano",
+  "steady drum kit",
+  "crisp electric guitar",
+  "dynamic shifts",
+  "layered textures",
+  "classic rock framework"
+ ],
+ "26": [
+  "house music",
+  "smooth tempo",
+  "viola line",
+  "crisp electronic beats",
+  "subtle synth pad",
+  "dreamy atmosphere",
+  "introspective mood",
+  "soft textures"
+ ],
+ "27": [
+  "electronic music",
+  "meditative mood",
+  "Rhodes keyboard",
+  "synth pads",
+  "looping arpeggio",
+  "ambient textures",
+  "subtle ambient noise",
+  "steady, minimal pulse"
+ ],
+ "28": [
+  "popfolk music",
+  "smooth vocal-like phrasing",
+  "gentle harmonic progressions",
+  "accessible sound",
+  "nostalgic atmosphere",
+  "uplifting mood",
+  "rooted in folk traditions",
+  "balanced arrangement"
+ ],
+ "29": [
+  "worldfusion music",
+  "vibrant tempo",
+  "dynamic drums",
+  "lush acoustic guitar",
+  "shimmering kalimba",
+  "inspiring mood",
+  "rhythmic interplay",
+  "global melodic textures"
+ ],
+ "30": [
+  "optimistic latin music",
+  "bright accordion",
+  "lively conga",
+  "crisp timbale",
+  "rhythmic drive",
+  "melodic flair",
+  "center stage",
+  "weaving intricate lines"
+ ],
+ "31": [
+  "groove-driven music",
+  "expressive slideguitar",
+  "warm upright bass",
+  "steady snare-driven rhythm",
+  "inspiring, uplifting atmosphere",
+  "smooth, flowing phrasing",
+  "steady, forward-moving pulse"
+ ],
+ "32": [
+  "Halloween rock 'n' roll",
+  "Strong, steady beat",
+  "Twangy guitar riffs",
+  "Punchy drum kit",
+  "Accordion",
+  "Upright bass",
+  "Eerie mood",
+  "Playful atmosphere"
+ ],
+ "33": [
+  "techno music",
+  "hypnotic percussion",
+  "shimmering synth pads",
+  "subtle electric bass",
+  "floating, immersive atmosphere",
+  "serene, otherworldly mood"
+ ],
+ "34": [
+  "groovy metal music",
+  "melodic piano line",
+  "aggressive guitar riffs",
+  "punchy drum kit",
+  "crisp electric bass",
+  "resonant synth pad",
+  "syncopated groove",
+  "tight, danceable energy"
+ ],
+ "35": [
+  "dancehall music",
+  "driving drum machine",
+  "syncopated beats",
+  "breezy, infectious rhythm",
+  "energetic pulse",
+  "open, forward-moving flow",
+  "urban flair",
+  "sense of movement"
+ ],
+ "36": [
+  "classical music",
+  "piano solo",
+  "grand harmonic progressions",
+  "sweeping motifs",
+  "rich string section",
+  "subtle french horn",
+  "solemn intensity",
+  "majestic resolution"
+ ],
+ "37": [
+  "drone music",
+  "resonant drums",
+  "cello",
+  "sitar",
+  "immersive atmosphere",
+  "meditative mood",
+  "primal stillness",
+  "grounding heartbeat"
+ ],
+ "38": [
+  "club track",
+  "mysterious mood",
+  "glittering guitar",
+  "deep sub-bass",
+  "crisp snare rolls",
+  "hypnotic rhythm",
+  "subtle arpeggios",
+  "atmospheric tension"
+ ],
+ "39": [
+  "electronic music",
+  "fast-paced tempo",
+  "crisp piano melody",
+  "synth bass",
+  "vibrant drum machine",
+  "sharp, rhythmic articulation",
+  "syncopated beats",
+  "bright arpeggios"
+ ],
+ "40": [
+  "acoustic guitar",
+  "score format",
+  "cinematic atmosphere",
+  "quiet, narrative-driven tones"
+ ],
+ "41": [
+  "psychedelic soundscape",
+  "warm Rhodes",
+  "dreamy atmosphere"
+ ],
+ "42": [
+  "Thrash metal music",
+  "Unrelenting energy",
+  "Synthesizer",
+  "Energetic mood"
+ ],
+ "43": [
+  "folk rock",
+  "singersongwriter tradition",
+  "delicate vibraphone melody",
+  "acoustic textures",
+  "introspective themes",
+  "warm, heartfelt atmosphere"
+ ],
+ "44": [
+  "inspiring rocknroll",
+  "ukulele lead",
+  "bright, upbeat sound",
+  "lively rhythm",
+  "classic, joyful mood"
+ ],
+ "45": [
+  "orchestra",
+  "magic atmosphere",
+  "rich melodies",
+  "幻想 soundtrack",
+  "imaginative mood"
+ ],
+ "46": [
+  "garage rock",
+  "electric guitar",
+  "raw energy",
+  "loose, rhythmic feel"
+ ],
+ "47": [
+  "Electronic dance music (EDM)",
+  "Driving beat",
+  "Film-inspired mood",
+  "Cinematic tension",
+  "Atmospheric sound quality"
+ ],
+ "48": [
+  "folk rock",
+  "symphonic",
+  "guitar-driven",
+  "traditional folk elements",
+  "orchestral arrangements",
+  "warm, heartfelt mood"
+ ],
+ "49": [
+  "orchestral music",
+  "accordion",
+  "mysterious mood"
+ ],
+ "50": [
+  "electronic music",
+  "orchestra",
+  "light mood",
+  "bright, airy textures",
+  "warmth",
+  "openness"
+ ],
+ "51": [
+  "electronica music",
+  "guitar",
+  "space mood"
+ ],
+ "52": [
+  "eurodance genre",
+  "electric guitar",
+  "ambient setting"
+ ],
+ "53": [
+  "Atmospheric strings",
+  "Dynamic and action-oriented theme"
+ ],
+ "54": [
+  "singersongwriter music",
+  "dark mood",
+  "introspective lyrics",
+  "atmospheric rhythms",
+  "melancholic tone",
+  "intimate, reflective energy",
+  "percussion instruments"
+ ],
+ "55": [
+  "electronica music",
+  "piano accompaniment",
+  "dark mood"
+ ],
+ "56": [
+  "cymbal percussion",
+  "dark tone",
+  "atmospheric tension",
+  "delicate metallic textures",
+  "echoing sound quality"
+ ],
+ "57": [
+  "melodic classical music",
+  "orchestra",
+  "lyrical phrasing",
+  "harmonious development"
+ ],
+ "58": [
+  "Driving soundtrack",
+  "Accordian",
+  "Energetic mood",
+  "Forward-moving theme",
+  "Rhythmic intensity",
+  "Dynamic propulsion"
+ ],
+ "59": [
+  "orchestral music",
+  "viola",
+  "action theme",
+  "dynamic intensity",
+  "rhythmic drive"
+ ],
+ "60": [
+  "experimental music",
+  "ballad",
+  "electric guitar",
+  "introspective tones",
+  "ambient textures",
+  "sparse instrumentation",
+  "reflective mood",
+  "emotionally subdued atmosphere"
+ ],
+ "61": [
+  "Atmospheric synthesizer music",
+  "Entertainment-focused mood"
+ ],
+ "62": [
+  "breakbeat music",
+  "strong, rhythmic beat",
+  "dramatic mood",
+  "emotion intensity"
+ ],
+ "63": [
+  "popfolk music",
+  "beautiful lyrics",
+  "strings instrumentation",
+  "heartfelt mood",
+  "melodic tune",
+  "traditional folk influence",
+  "温和的和声质地"
+ ],
+ "64": [
+  "rock 'n' roll music",
+  "piano accompaniment",
+  "upbeat energy",
+  "lively rhythms",
+  "funny gathering"
+ ],
+ "65": [
+  "noise music",
+  "Hammond organ",
+  "epic mood"
+ ],
+ "66": [
+  "fun hardrock track",
+  "harmonica",
+  "energetic rhythms",
+  "bold, upbeat tone"
+ ],
+ "67": [
+  "dance music",
+  "beautiful strings",
+  "elegance and grace",
+  "flowing melodies",
+  "harmonious arrangements"
+ ],
+ "68": [
+  "Cymbal percussion",
+  "Bold intensity",
+  "Dynamic texture",
+  "Resonant atmosphere"
+ ],
+ "69": [
+  "psychedelic rock",
+  "synthesizer",
+  "reverberant reverb",
+  "surreal textures",
+  "dreamy tones",
+  "calm atmosphere",
+  "meditative mood"
+ ],
+ "70": [
+  "singersongwriter music",
+  "harmonica",
+  "optimistic mood"
+ ],
+ "71": [
+  "scifi theme",
+  "full orchestra",
+  "expansive atmosphere",
+  "orchestral textures",
+  "imaginative instrumentation"
+ ],
+ "72": [
+  "jazzfunk music",
+  "percussive focus",
+  "emotional mood",
+  "rhythmic groove",
+  "syncopated patterns"
+ ],
+ "73": [
+  "rock 'n' roll music",
+  "Hammond organ",
+  "nostalgic mood",
+  "driving rhythm",
+  "warm, rich tonal textures"
+ ],
+ "74": [
+  "synthesizer",
+  "entertainment-oriented mood"
+ ],
+ "75": [
+  "Trance music",
+  "Accordian",
+  "Hypnotic rhythms",
+  "Melancholic melodies",
+  "Atmospheric mood"
+ ],
+ "76": [
+  "ukulele music",
+  "light and nostalgic mood"
+ ],
+ "77": [
+  "Atmospheric music",
+  "Violin playing",
+  "Background mood"
+ ],
+ "78": [
+  "rock music",
+  "viola",
+  "scifi mood"
+ ],
+ "79": [
+  "soft latin music",
+  "synthesizer",
+  "gentle rhythms",
+  "smooth, flowing melodies",
+  "calm and relaxed atmosphere"
+ ],
+ "80": [
+  "dancefloor-focused",
+  "chiptune music",
+  "slideguitar",
+  "retro vibe",
+  "energetic mood",
+  "pixelated melodies",
+  "crisp rhythms"
+ ],
+ "81": [
+  "psychedelic rock",
+  "orchestra",
+  "swirling textures",
+  "hallucinogenic effects",
+  "dynamic shifts",
+  "electrifying atmosphere",
+  "mind-expanding experience"
+ ],
+ "82": [
+  "dancepop genre",
+  "melancholic mood",
+  "Hammond organ",
+  "nostalgic melodies",
+  "rhythmic drive",
+  "emotional tone"
+ ],
+ "83": [
+  "thrash metal music",
+  "vibraphone",
+  "aggressive rhythms",
+  "film-themed atmosphere",
+  "sharp sonic contrasts"
+ ],
+ "84": [
+  "instrumental hip hop",
+  "mandolin",
+  "calm mood"
+ ],
+ "85": [
+  "worldfusion music",
+  "ukulele lead",
+  "emotional tone",
+  "tender phrasing",
+  "gentle tonal textures"
+ ],
+ "86": [
+  "nostalgic 70s music",
+  "warm atmospheric pad",
+  "emotional, reflective mood"
+ ],
+ "87": [
+  "melodic latin music",
+  "sampler",
+  "rhythmic patterns",
+  "smooth, flowing melodies",
+  "warm, inviting atmosphere"
+ ],
+ "88": [
+  "groovy 70s track",
+  "sampled beats",
+  "smooth rhythms",
+  "nostalgic textures",
+  "laid-back, relaxed vibe"
+ ],
+ "89": [
+  "commercial rock track",
+  "percussive focus",
+  "upbeat energy",
+  "accessible vibe",
+  "rhythmic drive",
+  "catchy energy"
+ ],
+ "90": [
+  "retro chanson",
+  "prominent bass line",
+  "nostalgic atmosphere",
+  "timeless melodies",
+  "laid-back, classic feel"
+ ],
+ "91": [
+  "instrumental hip hop",
+  "stringed instruments",
+  "powerful mood"
+ ],
+ "92": [
+  "chanson music",
+  "dark mood",
+  "bass",
+  "introspective atmosphere",
+  "quiet, reflective tone"
+ ],
+ "93": [
+  "mysterious breakbeat",
+  "electric guitar",
+  "rhythmic atmosphere",
+  "sharp, off-kilter beats",
+  "subtle harmonic undercurrents"
+ ],
+ "94": [
+  "instrumental rock music",
+  "drum machine beats",
+  "suspenseful mood"
+ ],
+ "95": [
+  "spiritual techno",
+  "smooth pad instrument",
+  "serene atmosphere",
+  "reflective mood"
+ ],
+ "96": [
+  "house music",
+  "vibraphone",
+  "smooth, melodic tones",
+  "warm, inviting atmosphere"
+ ],
+ "97": [
+  "soft rock music",
+  "sampler",
+  "gentle, relaxed atmosphere",
+  "minimalistic textures",
+  "subtle sonic layers"
+ ],
+ "98": [
+  "electronic music",
+  "acoustic guitar",
+  "suspenseful mood"
+ ],
+ "99": [
+  "experimental music",
+  "focus on beat",
+  "fantasy mood"
+ ]
+}
