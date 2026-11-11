@@ -50,7 +50,7 @@ CAPTION_Q = "Does this music match the following description? {caption} Answer y
 def load_model():
     processor = AutoProcessor.from_pretrained(MODEL)
     processor.tokenizer.padding_side = "left"  # so position -1 is the answer position for every row
-    model = Qwen2AudioForConditionalGeneration.from_pretrained(MODEL, torch_dtype=torch.float16).to("cuda")
+    model = Qwen2AudioForConditionalGeneration.from_pretrained(MODEL, dtype=torch.bfloat16).to("cuda")
     model.eval()
     return processor, model
 
@@ -87,7 +87,7 @@ def p_yes(processor, model, audio, questions, yes_ids, no_ids):
     texts = [chat(processor, q, with_audio=True) for q in questions]
     inputs = processor(text=texts, audio=[audio] * len(texts), sampling_rate=16000, return_tensors="pt",
                        padding=True).to("cuda")
-    inputs["input_features"] = inputs["input_features"].half()
+    inputs["input_features"] = inputs["input_features"].to(torch.bfloat16)
     logits = model(**inputs).logits[:, -1, :].float()
     probs = logits.softmax(-1)
     yes, no = probs[:, yes_ids].sum(-1), probs[:, no_ids].sum(-1)
