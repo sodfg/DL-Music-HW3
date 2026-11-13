@@ -1,0 +1,1384 @@
+{
+ "summary": {
+  "exp": "scale_1",
+  "n": 100,
+  "MQAScore": 0.9444540294302471,
+  "CaptionQA": 0.7772913510701619,
+  "MQA_logp": -0.13034095193663303,
+  "Caption_logp": -0.7127879425283754
+ },
+ "per_clip": {
+  "0": {
+   "concepts": {
+    "rap music": 0.007209033239632845,
+    "steady drum machine beat": 0.9517847299575806,
+    "subtle synth pads": 0.9999312162399292,
+    "sparse electric guitar": 0.9935058951377869,
+    "reflective, introspective mood": 0.9999052882194519,
+    "tight, repetitive rhythm": 0.9969521164894104
+   },
+   "mqa": 0.8248813798806319,
+   "caption_level": 0.9232708811759949,
+   "mqa_logp": -0.8324870654614642,
+   "caption_logp": -0.08197163790464401
+  },
+  "1": {
+   "concepts": {
+    "vibraphone": 0.9990935921669006,
+    "piano": 0.9925104379653931,
+    "synth pads": 0.9998807907104492,
+    "ambient tone": 0.9998157024383545,
+    "soft, resonant tones": 0.9999383091926575,
+    "spacious, dreamy texture": 0.9999606013298035,
+    "calm, reflective mood": 0.9998689293861389
+   },
+   "mqa": 0.9987240518842425,
+   "caption_level": 0.9997928142547607,
+   "mqa_logp": -0.0016112641439706618,
+   "caption_logp": -0.0012844104785472155
+  },
+  "2": {
+   "concepts": {
+    "mysterious club track": 0.9995234608650208,
+    "deep pulsing bass": 0.9997061491012573,
+    "steady rhythm": 0.8922329545021057,
+    "subtle atmospheric textures": 0.9998242855072021,
+    "crisp snare": 0.9424736499786377,
+    "shimmering synth pad": 0.999770998954773,
+    "enigmatic mood": 0.9987986087799072,
+    "immersive vibe": 0.9993219375610352
+   },
+   "mqa": 0.9789565056562424,
+   "caption_level": 0.9984385371208191,
+   "mqa_logp": -0.02265032928698929,
+   "caption_logp": -0.0025690386537462473
+  },
+  "3": {
+   "concepts": {
+    "retro rock music": 0.9997614026069641,
+    "solid bass line": 0.998801052570343,
+    "gritty guitar tone": 0.9990965127944946,
+    "punchy drum kit": 0.9994981288909912,
+    "nostalgic mood": 0.9996072053909302,
+    "raw, authentic feel": 0.9991223812103271,
+    "steady, timeless groove": 0.9987413287162781,
+    "electric piano": 0.9995744824409485
+   },
+   "mqa": 0.9992753118276596,
+   "caption_level": 0.9996907711029053,
+   "mqa_logp": -0.0009324771672254428,
+   "caption_logp": -0.0006313528283499181
+  },
+  "4": {
+   "concepts": {
+    "hiphop music": 0.9912774562835693,
+    "relaxed mood": 0.9999545812606812,
+    "subtle cymbal shimmer": 0.9996556639671326,
+    "smooth beat": 0.9998487830162048,
+    "soft rhythmic flow": 0.9997501373291016,
+    "warm electric piano": 0.9998821020126343,
+    "light upright bass": 0.9992247819900513,
+    "minimalistic arrangement": 0.9994998574256897
+   },
+   "mqa": 0.9986366704106331,
+   "caption_level": 0.9997574687004089,
+   "mqa_logp": -0.0015587438883812865,
+   "caption_logp": -0.0006113728741183877
+  },
+  "5": {
+   "concepts": {
+    "alternative rock music": 0.9996802806854248,
+    "bright acoustic guitar": 0.9997155070304871,
+    "crisp electric bass": 0.9996350407600403,
+    "driving drum kit": 0.9995864629745483,
+    "upbeat tempo": 0.9759519100189209,
+    "memorable melody": 0.9235192537307739,
+    "infectious rhythms": 0.9998036026954651
+   },
+   "mqa": 0.9854131511279515,
+   "caption_level": 0.995561420917511,
+   "mqa_logp": -0.015317764469987847,
+   "caption_logp": -0.005391922313719988
+  },
+  "6": {
+   "concepts": {
+    "chaotic noise soundscape": 0.9990309476852417,
+    "warm Rhodes": 0.9993375539779663,
+    "deep sub-bass": 0.9993916153907776,
+    "textured field recordings": 0.9996316432952881,
+    "dense atmosphere": 0.9992977976799011,
+    "dissonance": 0.9850764274597168,
+    "ambient texture": 0.9996938705444336,
+    "raw tone": 0.999080240726471
+   },
+   "mqa": 0.9975675120949745,
+   "caption_level": 0.9962671399116516,
+   "mqa_logp": -0.003112499965936877,
+   "caption_logp": -0.005219407379627228
+  },
+  "7": {
+   "concepts": {
+    "mysterious hardrock": 0.8867677450180054,
+    "tense strings": 0.994329571723938,
+    "electrified guitar riffs": 0.9520413875579834,
+    "pulsing bass line": 0.9995301961898804,
+    "crisp drum hits": 0.8925906419754028,
+    "resonant electric guitar": 0.9962393641471863,
+    "haunting, shimmering texture": 0.999673068523407,
+    "dark, unresolved mood": 0.9983758926391602
+   },
+   "mqa": 0.9649434834718704,
+   "caption_level": 0.9188181161880493,
+   "mqa_logp": -0.03783787969587138,
+   "caption_logp": -0.08851771056652069
+  },
+  "8": {
+   "concepts": {
+    "retro techno": 0.9997910261154175,
+    "crisp drums": 0.9961093664169312,
+    "温暖合成器垫音": 0.999923586845398,
+    "稳定的贝斯线": 0.9989051222801208,
+    "怀旧氛围": 0.9996431469917297,
+    "舞池 ready 情绪": 0.9984866976737976,
+    "polished 但真实的电子感": 0.9995609521865845
+   },
+   "mqa": 0.9989171283585685,
+   "caption_level": 0.9997146725654602,
+   "mqa_logp": -0.005265257466817275,
+   "caption_logp": -0.0005485728033818305
+  },
+  "9": {
+   "concepts": {
+    "acoustic guitar soundtrack": 0.8349545001983643,
+    "calm background mood": 0.9998927116394043,
+    "soft piano": 0.9999399185180664,
+    "gently cello": 0.9951756000518799,
+    "natural tone": 0.9965019226074219,
+    "relaxed atmosphere": 0.9999097585678101,
+    "non-intrusive": 0.9959009885787964
+   },
+   "mqa": 0.9746107714516776,
+   "caption_level": 0.9843658804893494,
+   "mqa_logp": -0.02809973246101955,
+   "caption_logp": -0.017344415187835693
+  },
+  "10": {
+   "concepts": {
+    "popfolk music": 0.9997119903564453,
+    "epic mood": 0.9934996962547302,
+    "warm, melodic guitar": 0.9999773502349854,
+    "acoustic upright bass": 0.9976508617401123,
+    "soft pedal steel": 0.9964777827262878,
+    "timeless folk charm": 0.9999752044677734,
+    "bright, anthemic energy": 0.999869704246521
+   },
+   "mqa": 0.9981660842895508,
+   "caption_level": 0.9996041059494019,
+   "mqa_logp": -0.0021687980728789364,
+   "caption_logp": -0.0008258652524091303
+  },
+  "11": {
+   "concepts": {
+    "experimental music": 0.999422013759613,
+    "haunting vibraphone": 0.9980147480964661,
+    "delicate piano textures": 0.9994208216667175,
+    "subtle cello resonance": 0.9997115135192871,
+    "tonal nuance": 0.4102219343185425,
+    "spatial depth": 0.92845618724823,
+    "minimalistic phrasing": 0.999383270740509,
+    "ambient reverberation": 0.999589741230011
+   },
+   "mqa": 0.916777528822422,
+   "caption_level": 0.9895470142364502,
+   "mqa_logp": -0.12284839599305997,
+   "caption_logp": -0.013360726647078991
+  },
+  "12": {
+   "concepts": {
+    "melodic fusion": 0.9969605803489685,
+    "warm atmospheric pad": 0.9999314546585083,
+    "smooth saxophone": 0.8518518805503845,
+    "steady electric piano": 0.999107301235199,
+    "flowing, expressive composition": 0.9939311146736145,
+    "relaxed, inviting vibe": 0.999896764755249
+   },
+   "mqa": 0.9736131827036539,
+   "caption_level": 0.9971733093261719,
+   "mqa_logp": -0.02905039369458488,
+   "caption_logp": -0.0038252826780080795
+  },
+  "13": {
+   "concepts": {
+    "folk music": 0.999422550201416,
+    "rhythmic drum machine": 0.998937726020813,
+    "communication theme": 0.9137616753578186,
+    "simple, repetitive patterns": 0.9996819496154785,
+    "open-ended melodies": 0.957635223865509,
+    "grounded, heartfelt mood": 0.9990942478179932,
+    "warm sound quality": 0.9979262351989746,
+    "acoustic guitar": 0.913294792175293
+   },
+   "mqa": 0.972469300031662,
+   "caption_level": 0.9989292025566101,
+   "mqa_logp": -0.029202554058429087,
+   "caption_logp": -0.0014638880966231227
+  },
+  "14": {
+   "concepts": {
+    "folk music": 0.9984968304634094,
+    "acoustic guitar arpeggios": 0.9952225089073181,
+    "mandolin": 0.912034273147583,
+    "fiddle": 0.8314287066459656,
+    "peaceful atmosphere": 0.9987155795097351,
+    "rooted in tradition": 0.9959386587142944,
+    "quiet beauty": 0.9998770356178284
+   },
+   "mqa": 0.9616733704294477,
+   "caption_level": 0.9406105875968933,
+   "mqa_logp": -0.04193812475257021,
+   "caption_logp": -0.06358987092971802
+  },
+  "15": {
+   "concepts": {
+    "strange house music": 0.9998055696487427,
+    "rhythmic sampler loop": 0.9992557764053345,
+    "subtle synth pads": 0.9999231100082397,
+    "warm, pulsing bassline": 0.9998250603675842,
+    "eerie atmosphere": 0.9994485378265381,
+    "unpredictable groove": 0.9935721158981323,
+    "dissonant textures": 0.9980138540267944,
+    "challenging warmth": 0.973316490650177
+   },
+   "mqa": 0.9953950643539429,
+   "caption_level": 0.9991041421890259,
+   "mqa_logp": -0.005086020864837337,
+   "caption_logp": -0.0014916453510522842
+  },
+  "16": {
+   "concepts": {
+    "house music": 0.9894702434539795,
+    "nostalgic mood": 0.9998685717582703,
+    "warm Rhodes keys": 0.9999582767486572,
+    "steady four-on-the-floor beat": 0.9821352362632751,
+    "subtle bassline": 0.9997071027755737,
+    "rich analog texture": 0.9999229311943054,
+    "clean drum machine": 0.9803840517997742,
+    "soft, resonant synth pad": 0.9999655485153198
+   },
+   "mqa": 0.9939264953136444,
+   "caption_level": 0.99898761510849,
+   "mqa_logp": -0.006500306606540107,
+   "caption_logp": -0.0020058590453118086
+  },
+  "17": {
+   "concepts": {
+    "orchestral music": 0.9998446702957153,
+    "dreamy atmosphere": 0.9999058246612549,
+    "delicate sampler": 0.9996281266212463,
+    "lush strings": 0.9995571970939636,
+    "soft, shimmering piano": 0.9998838305473328,
+    "serene, ethereal mood": 0.9997825622558594,
+    "distant echoes": 0.999790370464325,
+    "gentle textures": 0.9997310042381287
+   },
+   "mqa": 0.9997654482722282,
+   "caption_level": 0.9997332096099854,
+   "mqa_logp": -0.0007504039967898279,
+   "caption_logp": -0.0008407192071899772
+  },
+  "18": {
+   "concepts": {
+    "Instrumental music": 0.9976413249969482,
+    "Driving beat": 0.9966914653778076,
+    "Deep emotional response": 0.9925679564476013,
+    "Powerful drum kit": 0.999351978302002,
+    "Resonant bass": 0.9997478723526001,
+    "Crisp electric guitar": 0.997623860836029,
+    "Tense atmosphere": 0.9985251426696777,
+    "Raw intensity": 0.9993901252746582
+   },
+   "mqa": 0.9976924657821655,
+   "caption_level": 0.9895248413085938,
+   "mqa_logp": -0.002819796594849322,
+   "caption_logp": -0.012075381353497505
+  },
+  "19": {
+   "concepts": {
+    "Atmospheric music": 0.9998581409454346,
+    "Catching vibe": 0.9992194771766663,
+    "Deep bass": 0.9969472289085388,
+    "Warm synth pads": 0.9999306201934814,
+    "Subtle ambient textures": 0.9999160766601562,
+    "Smooth, engaging soundscape": 0.9997667074203491,
+    "Gentle, melodic pull": 0.9997448921203613
+   },
+   "mqa": 0.9993404490607125,
+   "caption_level": 0.9976604580879211,
+   "mqa_logp": -0.0010668231199295925,
+   "caption_logp": -0.005300657823681831
+  },
+  "20": {
+   "concepts": {
+    "house music": 0.9880960583686829,
+    "smooth electric guitar": 0.988735556602478,
+    "lush synth pads": 0.9998186826705933,
+    "steady four-on-the-floor beat": 0.9822226762771606,
+    "warm, inviting atmosphere": 0.9997548460960388,
+    "gentle groove": 0.9984543919563293,
+    "flowing melodies": 0.9782450199127197
+   },
+   "mqa": 0.990761033126286,
+   "caption_level": 0.29442450404167175,
+   "mqa_logp": -0.009865174631288807,
+   "caption_logp": -1.2256860733032227
+  },
+  "21": {
+   "concepts": {
+    "vibrant dance track": 0.9985263347625732,
+    "energetic drums": 0.9911424517631531,
+    "pulsing synth bass": 0.9997658729553223,
+    "bright acoustic guitar": 0.9900999069213867,
+    "lively, sun-soaked spirit": 0.9980526566505432,
+    "rhythmic, foot-tapping groove": 0.9871876835823059,
+    "室内的脉动节奏": 0.9946959018707275
+   },
+   "mqa": 0.9942101155008588,
+   "caption_level": 0.8501186370849609,
+   "mqa_logp": -0.017771732714858705,
+   "caption_logp": -0.16461384296417236
+  },
+  "22": {
+   "concepts": {
+    "worldfusion music": 0.9983475804328918,
+    "bright guitar": 0.8801566362380981,
+    "pulse percussion": 0.9931973218917847,
+    "lively drum kit": 0.99834805727005,
+    "vibrant tabla": 0.985824704170227,
+    "resonant synth bass": 0.9997756481170654,
+    "infectious groove": 0.9907014966011047,
+    "celebratory mood": 0.9296845197677612
+   },
+   "mqa": 0.9720044955611229,
+   "caption_level": 0.930158793926239,
+   "mqa_logp": -0.02980588130594697,
+   "caption_logp": -0.07444871217012405
+  },
+  "23": {
+   "concepts": {
+    "folkrock": 0.9998223185539246,
+    "bluesrock": 0.9989987015724182,
+    "rhythmic drum machine": 0.9978753328323364,
+    "warm guitar tones": 0.9999399781227112,
+    "steady acoustic bass": 0.9985288977622986,
+    "laid-back atmosphere": 0.9999037384986877,
+    "rootsy vibe": 0.9999314546585083,
+    "simple, organic patterns": 0.9993996024131775
+   },
+   "mqa": 0.9993000030517578,
+   "caption_level": 0.999533474445343,
+   "mqa_logp": -0.0008470007778669242,
+   "caption_logp": -0.001585010439157486
+  },
+  "24": {
+   "concepts": {
+    "orchestral music": 0.9997977018356323,
+    "rich, expressive viola": 0.9935939311981201,
+    "lush string section": 0.9988098740577698,
+    "steady piano accompaniment": 0.9921427965164185,
+    "dynamic, adventurous mood": 0.9962664246559143,
+    "energetic, immersive atmosphere": 0.9975396990776062,
+    "action-oriented exploration": 0.9934893250465393,
+    "layered textures": 0.9997209310531616
+   },
+   "mqa": 0.9964200854301453,
+   "caption_level": 0.9893136024475098,
+   "mqa_logp": -0.004210190832964145,
+   "caption_logp": -0.011913350783288479
+  },
+  "25": {
+   "concepts": {
+    "rock music": 0.6795324087142944,
+    "dramatic mood": 0.9993037581443787,
+    "rich, shimmering Rhodes piano": 0.9999432563781738,
+    "steady drum kit": 0.9939179420471191,
+    "crisp electric guitar": 0.9702460169792175,
+    "dynamic shifts": 0.959276020526886,
+    "layered textures": 0.9996302127838135,
+    "classic rock framework": 0.9976080656051636
+   },
+   "mqa": 0.9499322101473808,
+   "caption_level": 0.7538760900497437,
+   "mqa_logp": -0.05927316436645924,
+   "caption_logp": -0.2856851816177368
+  },
+  "26": {
+   "concepts": {
+    "house music": 0.9974069595336914,
+    "smooth tempo": 0.9982415437698364,
+    "viola line": 0.9976159334182739,
+    "crisp electronic beats": 0.8502170443534851,
+    "subtle synth pad": 0.9998142123222351,
+    "dreamy atmosphere": 0.9999374151229858,
+    "introspective mood": 0.9990912675857544,
+    "soft textures": 0.9998779296875
+   },
+   "mqa": 0.9802752882242203,
+   "caption_level": 0.9966490268707275,
+   "mqa_logp": -0.021753750323114218,
+   "caption_logp": -0.004904655274003744
+  },
+  "27": {
+   "concepts": {
+    "electronic music": 0.9997918009757996,
+    "meditative mood": 0.9997159838676453,
+    "Rhodes keyboard": 0.999857485294342,
+    "synth pads": 0.9999465942382812,
+    "looping arpeggio": 0.9995229840278625,
+    "ambient textures": 0.9999499320983887,
+    "subtle ambient noise": 0.9997707009315491,
+    "steady, minimal pulse": 0.9901086688041687
+   },
+   "mqa": 0.9985830187797546,
+   "caption_level": 0.9996532797813416,
+   "mqa_logp": -0.0017182826086354908,
+   "caption_logp": -0.0012822023127228022
+  },
+  "28": {
+   "concepts": {
+    "popfolk music": 0.9989917874336243,
+    "smooth vocal-like phrasing": 0.38052117824554443,
+    "gentle harmonic progressions": 0.9993022084236145,
+    "accessible sound": 0.9883585572242737,
+    "nostalgic atmosphere": 0.9998456835746765,
+    "uplifting mood": 0.9852749109268188,
+    "rooted in folk traditions": 0.999770998954773,
+    "balanced arrangement": 0.8902577757835388
+   },
+   "mqa": 0.905290387570858,
+   "caption_level": 0.9975662231445312,
+   "mqa_logp": -0.13968161298544146,
+   "caption_logp": -0.0031949602998793125
+  },
+  "29": {
+   "concepts": {
+    "worldfusion music": 0.9995982050895691,
+    "vibrant tempo": 0.9874076247215271,
+    "dynamic drums": 0.9897183775901794,
+    "lush acoustic guitar": 0.9575531482696533,
+    "shimmering kalimba": 0.9991556406021118,
+    "inspiring mood": 0.9973730444908142,
+    "rhythmic interplay": 0.9383219480514526,
+    "global melodic textures": 0.9998880624771118
+   },
+   "mqa": 0.9836270064115524,
+   "caption_level": 0.9939372539520264,
+   "mqa_logp": -0.01755287338164635,
+   "caption_logp": -0.00711702648550272
+  },
+  "30": {
+   "concepts": {
+    "optimistic latin music": 0.9982612133026123,
+    "bright accordion": 0.9994317293167114,
+    "lively conga": 0.9888445138931274,
+    "crisp timbale": 0.989447295665741,
+    "rhythmic drive": 0.912670910358429,
+    "melodic flair": 0.9663596749305725,
+    "center stage": 0.6831662654876709,
+    "weaving intricate lines": 0.985890805721283
+   },
+   "mqa": 0.9405090510845184,
+   "caption_level": 0.9945756793022156,
+   "mqa_logp": -0.0688709485475556,
+   "caption_logp": -0.00583949638530612
+  },
+  "31": {
+   "concepts": {
+    "groove-driven music": 0.9991216659545898,
+    "expressive slideguitar": 0.9992265105247498,
+    "warm upright bass": 0.9996704459190369,
+    "steady snare-driven rhythm": 0.9934650659561157,
+    "inspiring, uplifting atmosphere": 0.9987906217575073,
+    "smooth, flowing phrasing": 0.9971300959587097,
+    "steady, forward-moving pulse": 0.9958810210227966
+   },
+   "mqa": 0.9976122038705009,
+   "caption_level": 0.9970741868019104,
+   "mqa_logp": -0.0026542501415990826,
+   "caption_logp": -0.0035288536455482244
+  },
+  "32": {
+   "concepts": {
+    "Halloween rock 'n' roll": 0.9989429712295532,
+    "Strong, steady beat": 0.9987057447433472,
+    "Twangy guitar riffs": 0.9998760223388672,
+    "Punchy drum kit": 0.9992872476577759,
+    "Accordion": 0.9990694522857666,
+    "Upright bass": 0.9992348551750183,
+    "Eerie mood": 0.999121904373169,
+    "Playful atmosphere": 0.9997295141220093
+   },
+   "mqa": 0.9992459639906883,
+   "caption_level": 0.9973089694976807,
+   "mqa_logp": -0.00090382151392987,
+   "caption_logp": -0.00331150833517313
+  },
+  "33": {
+   "concepts": {
+    "techno music": 0.9767484068870544,
+    "hypnotic percussion": 0.9973052144050598,
+    "shimmering synth pads": 0.999958872795105,
+    "subtle electric bass": 0.9998229742050171,
+    "floating, immersive atmosphere": 0.9999768137931824,
+    "serene, otherworldly mood": 0.9999757409095764
+   },
+   "mqa": 0.9956313371658325,
+   "caption_level": 0.9991143941879272,
+   "mqa_logp": -0.004599186024279334,
+   "caption_logp": -0.0018850439228117466
+  },
+  "34": {
+   "concepts": {
+    "groovy metal music": 0.9523624181747437,
+    "melodic piano line": 0.9994045495986938,
+    "aggressive guitar riffs": 0.18263602256774902,
+    "punchy drum kit": 0.9317031502723694,
+    "crisp electric bass": 0.9942936301231384,
+    "resonant synth pad": 0.99985671043396,
+    "syncopated groove": 0.9965311288833618,
+    "tight, danceable energy": 0.9131696820259094
+   },
+   "mqa": 0.8712446615099907,
+   "caption_level": 0.37650153040885925,
+   "mqa_logp": -0.2406971769341908,
+   "caption_logp": -0.9798128604888916
+  },
+  "35": {
+   "concepts": {
+    "dancehall music": 0.998879075050354,
+    "driving drum machine": 0.9996351003646851,
+    "syncopated beats": 0.9964909553527832,
+    "breezy, infectious rhythm": 0.9996739625930786,
+    "energetic pulse": 0.9908558130264282,
+    "open, forward-moving flow": 0.9376652240753174,
+    "urban flair": 0.9997327327728271,
+    "sense of movement": 0.984356164932251
+   },
+   "mqa": 0.9884111285209656,
+   "caption_level": 0.9980957508087158,
+   "mqa_logp": -0.012325239200436044,
+   "caption_logp": -0.0024229411501437426
+  },
+  "36": {
+   "concepts": {
+    "classical music": 0.999187707901001,
+    "piano solo": 0.9997870922088623,
+    "grand harmonic progressions": 0.9995800256729126,
+    "sweeping motifs": 0.9997804164886475,
+    "rich string section": 0.9980141520500183,
+    "subtle french horn": 0.9996097683906555,
+    "solemn intensity": 0.9995853304862976,
+    "majestic resolution": 0.9989967346191406
+   },
+   "mqa": 0.9993176534771919,
+   "caption_level": 0.9995622038841248,
+   "mqa_logp": -0.0009699276015453506,
+   "caption_logp": -0.0008759161573834717
+  },
+  "37": {
+   "concepts": {
+    "drone music": 0.999761164188385,
+    "resonant drums": 0.9036226272583008,
+    "cello": 0.9983991980552673,
+    "sitar": 0.9853355288505554,
+    "immersive atmosphere": 0.9998099207878113,
+    "meditative mood": 0.9997248649597168,
+    "primal stillness": 0.9996005892753601,
+    "grounding heartbeat": 0.9822129607200623
+   },
+   "mqa": 0.9835583567619324,
+   "caption_level": 0.9991322159767151,
+   "mqa_logp": -0.017613256786717102,
+   "caption_logp": -0.0019558111671358347
+  },
+  "38": {
+   "concepts": {
+    "club track": 0.6775383949279785,
+    "mysterious mood": 0.9997822046279907,
+    "glittering guitar": 0.9965639114379883,
+    "deep sub-bass": 0.9991868734359741,
+    "crisp snare rolls": 0.8804217576980591,
+    "hypnotic rhythm": 0.9997967481613159,
+    "subtle arpeggios": 0.9992692470550537,
+    "atmospheric tension": 0.9997988343238831
+   },
+   "mqa": 0.9440447464585304,
+   "caption_level": 0.9970763921737671,
+   "mqa_logp": -0.06587387034232961,
+   "caption_logp": -0.0040039001032710075
+  },
+  "39": {
+   "concepts": {
+    "electronic music": 0.9997853636741638,
+    "fast-paced tempo": 0.8468489050865173,
+    "crisp piano melody": 0.9992762804031372,
+    "synth bass": 0.9985945224761963,
+    "vibrant drum machine": 0.9998717308044434,
+    "sharp, rhythmic articulation": 0.9946442246437073,
+    "syncopated beats": 0.9994354248046875,
+    "bright arpeggios": 0.999275267124176
+   },
+   "mqa": 0.9797164648771286,
+   "caption_level": 0.9972603917121887,
+   "mqa_logp": -0.02234169868097524,
+   "caption_logp": -0.0035030734725296497
+  },
+  "40": {
+   "concepts": {
+    "acoustic guitar": 0.9890781044960022,
+    "score format": 0.9835134148597717,
+    "cinematic atmosphere": 0.9996493458747864,
+    "quiet, narrative-driven tones": 0.9987031817436218
+   },
+   "mqa": 0.9927360117435455,
+   "caption_level": 0.9906067252159119,
+   "mqa_logp": -0.00785473054565955,
+   "caption_logp": -0.010178574360907078
+  },
+  "41": {
+   "concepts": {
+    "psychedelic soundscape": 0.9995707869529724,
+    "warm Rhodes": 0.9997902512550354,
+    "dreamy atmosphere": 0.9999152421951294
+   },
+   "mqa": 0.999758760134379,
+   "caption_level": 0.9988279938697815,
+   "mqa_logp": -0.0006759315923166772,
+   "caption_logp": -0.0021961587481200695
+  },
+  "42": {
+   "concepts": {
+    "Thrash metal music": 0.9950257539749146,
+    "Unrelenting energy": 0.9986103773117065,
+    "Synthesizer": 0.9993006587028503,
+    "Energetic mood": 0.9763080477714539
+   },
+   "mqa": 0.9923112094402313,
+   "caption_level": 0.006761923432350159,
+   "mqa_logp": -0.008244646422099322,
+   "caption_logp": -4.99731969833374
+  },
+  "43": {
+   "concepts": {
+    "folk rock": 0.9975257515907288,
+    "singersongwriter tradition": 0.987939178943634,
+    "delicate vibraphone melody": 0.9999564290046692,
+    "acoustic textures": 0.9994567632675171,
+    "introspective themes": 0.9703749418258667,
+    "warm, heartfelt atmosphere": 0.9999180436134338
+   },
+   "mqa": 0.992528518040975,
+   "caption_level": 0.9888328909873962,
+   "mqa_logp": -0.007981810478668194,
+   "caption_logp": -0.011984288692474365
+  },
+  "44": {
+   "concepts": {
+    "inspiring rocknroll": 0.9318820834159851,
+    "ukulele lead": 0.9989503622055054,
+    "bright, upbeat sound": 0.9995823502540588,
+    "lively rhythm": 0.9977691173553467,
+    "classic, joyful mood": 0.9993525743484497
+   },
+   "mqa": 0.9855072975158692,
+   "caption_level": 0.14776486158370972,
+   "mqa_logp": -0.015366803260985763,
+   "caption_logp": -1.9133851528167725
+  },
+  "45": {
+   "concepts": {
+    "orchestra": 0.9734653830528259,
+    "magic atmosphere": 0.9993578791618347,
+    "rich melodies": 0.007268107030540705,
+    "幻想 soundtrack": 0.9994288086891174,
+    "imaginative mood": 0.9996050000190735
+   },
+   "mqa": 0.7958250355906784,
+   "caption_level": 0.9671615362167358,
+   "mqa_logp": -0.9913862404762768,
+   "caption_logp": -0.03574555739760399
+  },
+  "46": {
+   "concepts": {
+    "garage rock": 0.9997177124023438,
+    "electric guitar": 0.9974495768547058,
+    "raw energy": 0.9996559619903564,
+    "loose, rhythmic feel": 0.9969190955162048
+   },
+   "mqa": 0.9984355866909027,
+   "caption_level": 0.8635212182998657,
+   "mqa_logp": -0.001759283259161748,
+   "caption_logp": -0.14888274669647217
+  },
+  "47": {
+   "concepts": {
+    "Electronic dance music (EDM)": 0.9998632073402405,
+    "Driving beat": 0.9985924959182739,
+    "Film-inspired mood": 0.9997843503952026,
+    "Cinematic tension": 0.9989675879478455,
+    "Atmospheric sound quality": 0.9995079636573792
+   },
+   "mqa": 0.9993431210517884,
+   "caption_level": 0.9684269428253174,
+   "mqa_logp": -0.0011929886532016098,
+   "caption_logp": -0.033574219793081284
+  },
+  "48": {
+   "concepts": {
+    "folk rock": 0.9996175765991211,
+    "symphonic": 0.40817907452583313,
+    "guitar-driven": 0.9996604919433594,
+    "traditional folk elements": 0.9999265074729919,
+    "orchestral arrangements": 0.7053189277648926,
+    "warm, heartfelt mood": 0.9998637437820435
+   },
+   "mqa": 0.852094387014707,
+   "caption_level": 0.8797817230224609,
+   "mqa_logp": -0.2083992693029965,
+   "caption_logp": -0.1295281946659088
+  },
+  "49": {
+   "concepts": {
+    "orchestral music": 0.9997105002403259,
+    "accordion": 0.99582839012146,
+    "mysterious mood": 0.9993537068367004
+   },
+   "mqa": 0.9982975323994955,
+   "caption_level": 0.8800092339515686,
+   "mqa_logp": -0.001914316089823842,
+   "caption_logp": -0.12912844121456146
+  },
+  "50": {
+   "concepts": {
+    "electronic music": 0.9998635053634644,
+    "orchestra": 0.9799322485923767,
+    "light mood": 0.9994429349899292,
+    "bright, airy textures": 0.9989989995956421,
+    "warmth": 0.9033705592155457,
+    "openness": 0.6535176634788513
+   },
+   "mqa": 0.9225209852059683,
+   "caption_level": 0.7301881909370422,
+   "mqa_logp": -0.09255632583032518,
+   "caption_logp": -0.3165219724178314
+  },
+  "51": {
+   "concepts": {
+    "electronica music": 0.9997647404670715,
+    "guitar": 0.985262393951416,
+    "space mood": 0.9993811249732971
+   },
+   "mqa": 0.9948027531305949,
+   "caption_level": 0.9989283084869385,
+   "mqa_logp": -0.005535157572012395,
+   "caption_logp": -0.0013315598480403423
+  },
+  "52": {
+   "concepts": {
+    "eurodance genre": 0.9992781281471252,
+    "electric guitar": 0.9972095489501953,
+    "ambient setting": 0.9983142614364624
+   },
+   "mqa": 0.9982673128445944,
+   "caption_level": 0.4969801604747772,
+   "mqa_logp": -0.0019713842387621603,
+   "caption_logp": -0.7020103335380554
+  },
+  "53": {
+   "concepts": {
+    "Atmospheric strings": 0.9990676045417786,
+    "Dynamic and action-oriented theme": 0.9898865818977356
+   },
+   "mqa": 0.9944770932197571,
+   "caption_level": 0.029352232813835144,
+   "mqa_logp": -0.006222019728738815,
+   "caption_logp": -3.529923677444458
+  },
+  "54": {
+   "concepts": {
+    "singersongwriter music": 0.4376905560493469,
+    "dark mood": 0.9900453090667725,
+    "introspective lyrics": 0.016003502532839775,
+    "atmospheric rhythms": 0.9952601194381714,
+    "melancholic tone": 0.9884470701217651,
+    "intimate, reflective energy": 0.9971678256988525,
+    "percussion instruments": 0.6788246035575867
+   },
+   "mqa": 0.7290627123521907,
+   "caption_level": 0.43736234307289124,
+   "mqa_logp": -0.7696107296339635,
+   "caption_logp": -0.8312408328056335
+  },
+  "55": {
+   "concepts": {
+    "electronica music": 0.99922776222229,
+    "piano accompaniment": 0.9977666735649109,
+    "dark mood": 0.9992122650146484
+   },
+   "mqa": 0.9987355669339498,
+   "caption_level": 0.997628927230835,
+   "mqa_logp": -0.0014736937979857128,
+   "caption_logp": -0.0026746366638690233
+  },
+  "56": {
+   "concepts": {
+    "cymbal percussion": 0.8158881068229675,
+    "dark tone": 0.9929371476173401,
+    "atmospheric tension": 0.9991811513900757,
+    "delicate metallic textures": 0.9995490908622742,
+    "echoing sound quality": 0.9991210699081421
+   },
+   "mqa": 0.9613353133201599,
+   "caption_level": 0.9956117868423462,
+   "mqa_logp": -0.043198243610095236,
+   "caption_logp": -0.00536968931555748
+  },
+  "57": {
+   "concepts": {
+    "melodic classical music": 0.8660326600074768,
+    "orchestra": 0.9978752732276917,
+    "lyrical phrasing": 0.004987531807273626,
+    "harmonious development": 0.9695405960083008
+   },
+   "mqa": 0.7096090152626857,
+   "caption_level": 0.9775365591049194,
+   "mqa_logp": -1.3703388348803855,
+   "caption_logp": -0.02404140867292881
+  },
+  "58": {
+   "concepts": {
+    "Driving soundtrack": 0.9960065484046936,
+    "Accordian": 0.9931434392929077,
+    "Energetic mood": 0.7755081653594971,
+    "Forward-moving theme": 0.9566903114318848,
+    "Rhythmic intensity": 0.8336952924728394,
+    "Dynamic propulsion": 0.9096810817718506
+   },
+   "mqa": 0.9107874731222788,
+   "caption_level": 0.04778314754366875,
+   "mqa_logp": -0.09909771871753037,
+   "caption_logp": -3.043252944946289
+  },
+  "59": {
+   "concepts": {
+    "orchestral music": 0.9998414516448975,
+    "viola": 0.9945678114891052,
+    "action theme": 0.9995681643486023,
+    "dynamic intensity": 0.976606011390686,
+    "rhythmic drive": 0.9970355033874512
+   },
+   "mqa": 0.9935237884521484,
+   "caption_level": 0.9658194184303284,
+   "mqa_logp": -0.007810199627419934,
+   "caption_logp": -0.036438651382923126
+  },
+  "60": {
+   "concepts": {
+    "experimental music": 0.9988130331039429,
+    "ballad": 0.9683862924575806,
+    "electric guitar": 0.16538363695144653,
+    "introspective tones": 0.9698340892791748,
+    "ambient textures": 0.9998455047607422,
+    "sparse instrumentation": 0.959898829460144,
+    "reflective mood": 0.998828113079071,
+    "emotionally subdued atmosphere": 0.9996660351753235
+   },
+   "mqa": 0.8825819417834282,
+   "caption_level": 0.060250964015722275,
+   "mqa_logp": -0.23953753549722023,
+   "caption_logp": -2.811922311782837
+  },
+  "61": {
+   "concepts": {
+    "Atmospheric synthesizer music": 0.9999117255210876,
+    "Entertainment-focused mood": 0.9996065497398376
+   },
+   "mqa": 0.9997591376304626,
+   "caption_level": 0.9977810382843018,
+   "mqa_logp": -0.0008974391530500725,
+   "caption_logp": -0.005494881886988878
+  },
+  "62": {
+   "concepts": {
+    "breakbeat music": 0.9996337890625,
+    "strong, rhythmic beat": 0.9982459545135498,
+    "dramatic mood": 0.990254819393158,
+    "emotion intensity": 0.9171102046966553
+   },
+   "mqa": 0.9763111919164658,
+   "caption_level": 0.9970075488090515,
+   "mqa_logp": -0.026043932943139225,
+   "caption_logp": -0.0037832208909094334
+  },
+  "63": {
+   "concepts": {
+    "popfolk music": 0.9993202090263367,
+    "beautiful lyrics": 0.0031958241015672684,
+    "strings instrumentation": 0.9703640937805176,
+    "heartfelt mood": 0.9939597249031067,
+    "melodic tune": 0.8512935042381287,
+    "traditional folk influence": 0.9856737852096558,
+    "温和的和声质地": 0.9997525215148926
+   },
+   "mqa": 0.8290799518248865,
+   "caption_level": 0.9397201538085938,
+   "mqa_logp": -0.8556638644908422,
+   "caption_logp": -0.06334707140922546
+  },
+  "64": {
+   "concepts": {
+    "rock 'n' roll music": 0.37771496176719666,
+    "piano accompaniment": 0.9967869520187378,
+    "upbeat energy": 0.2863854169845581,
+    "lively rhythms": 0.9511236548423767,
+    "funny gathering": 0.9965821504592896
+   },
+   "mqa": 0.7217186272144318,
+   "caption_level": 0.5602632164955139,
+   "mqa_logp": -0.45697629852220417,
+   "caption_logp": -0.5810990929603577
+  },
+  "65": {
+   "concepts": {
+    "noise music": 0.9814051389694214,
+    "Hammond organ": 0.99944007396698,
+    "epic mood": 0.9998562335968018
+   },
+   "mqa": 0.993567148844401,
+   "caption_level": 0.06023554131388664,
+   "mqa_logp": -0.007049251551507041,
+   "caption_logp": -2.811786651611328
+  },
+  "66": {
+   "concepts": {
+    "fun hardrock track": 0.09559699147939682,
+    "harmonica": 0.9999382495880127,
+    "energetic rhythms": 0.020637420937418938,
+    "bold, upbeat tone": 0.3752439320087433
+   },
+   "mqa": 0.37285414850339293,
+   "caption_level": 0.0028065363876521587,
+   "mqa_logp": -1.8033708218827087,
+   "caption_logp": -5.876741886138916
+  },
+  "67": {
+   "concepts": {
+    "dance music": 0.9873247146606445,
+    "beautiful strings": 0.9932460784912109,
+    "elegance and grace": 0.9974599480628967,
+    "flowing melodies": 0.5652425289154053,
+    "harmonious arrangements": 0.32251352071762085
+   },
+   "mqa": 0.7731573581695557,
+   "caption_level": 0.5914779901504517,
+   "mqa_logp": -0.3457602981477976,
+   "caption_logp": -0.526986837387085
+  },
+  "68": {
+   "concepts": {
+    "Cymbal percussion": 0.966693103313446,
+    "Bold intensity": 0.9995984435081482,
+    "Dynamic texture": 0.9957043528556824,
+    "Resonant atmosphere": 0.9998186230659485
+   },
+   "mqa": 0.9904536306858063,
+   "caption_level": 0.8153617978096008,
+   "mqa_logp": -0.011233225639443845,
+   "caption_logp": -0.20666569471359253
+  },
+  "69": {
+   "concepts": {
+    "psychedelic rock": 0.733404815196991,
+    "synthesizer": 0.9996713995933533,
+    "reverberant reverb": 0.9966699481010437,
+    "surreal textures": 0.9994189739227295,
+    "dreamy tones": 0.999891996383667,
+    "calm atmosphere": 0.9992786049842834,
+    "meditative mood": 0.9896422624588013
+   },
+   "mqa": 0.9597111429486956,
+   "caption_level": 0.9599832892417908,
+   "mqa_logp": -0.04751716909231618,
+   "caption_logp": -0.042692556977272034
+  },
+  "70": {
+   "concepts": {
+    "singersongwriter music": 0.9737330079078674,
+    "harmonica": 0.9999086856842041,
+    "optimistic mood": 0.9860997796058655
+   },
+   "mqa": 0.986580491065979,
+   "caption_level": 0.9769179224967957,
+   "mqa_logp": -0.013952168194615902,
+   "caption_logp": -0.023950746282935143
+  },
+  "71": {
+   "concepts": {
+    "scifi theme": 0.9998734593391418,
+    "full orchestra": 0.9895228743553162,
+    "expansive atmosphere": 0.9996958374977112,
+    "orchestral textures": 0.9998225569725037,
+    "imaginative instrumentation": 0.9996781945228577
+   },
+   "mqa": 0.9977185845375061,
+   "caption_level": 0.9991780519485474,
+   "mqa_logp": -0.0027855875028762966,
+   "caption_logp": -0.0012406650930643082
+  },
+  "72": {
+   "concepts": {
+    "jazzfunk music": 0.9997928142547607,
+    "percussive focus": 0.9981290102005005,
+    "emotional mood": 0.8908106088638306,
+    "rhythmic groove": 0.9980185627937317,
+    "syncopated patterns": 0.9990127086639404
+   },
+   "mqa": 0.9771527409553528,
+   "caption_level": 0.05983816459774971,
+   "mqa_logp": -0.024760519404662774,
+   "caption_logp": -2.817570686340332
+  },
+  "73": {
+   "concepts": {
+    "rock 'n' roll music": 0.8929010629653931,
+    "Hammond organ": 0.9996797442436218,
+    "nostalgic mood": 0.9997740983963013,
+    "driving rhythm": 0.9900302886962891,
+    "warm, rich tonal textures": 0.9989752173423767
+   },
+   "mqa": 0.9762720823287964,
+   "caption_level": 0.2695402204990387,
+   "mqa_logp": -0.025513419054914267,
+   "caption_logp": -1.314048409461975
+  },
+  "74": {
+   "concepts": {
+    "synthesizer": 0.9994725584983826,
+    "entertainment-oriented mood": 0.9980211853981018
+   },
+   "mqa": 0.9987468719482422,
+   "caption_level": 0.9976023435592651,
+   "mqa_logp": -0.002015242353081703,
+   "caption_logp": -0.003097976790741086
+  },
+  "75": {
+   "concepts": {
+    "Trance music": 0.9996289014816284,
+    "Accordian": 0.9955894947052002,
+    "Hypnotic rhythms": 0.9998166561126709,
+    "Melancholic melodies": 0.999752402305603,
+    "Atmospheric mood": 0.9998980760574341
+   },
+   "mqa": 0.9989371061325073,
+   "caption_level": 0.9834364652633667,
+   "mqa_logp": -0.0013342081860173494,
+   "caption_logp": -0.01758849062025547
+  },
+  "76": {
+   "concepts": {
+    "ukulele music": 0.999751627445221,
+    "light and nostalgic mood": 0.9998874068260193
+   },
+   "mqa": 0.9998195171356201,
+   "caption_level": 0.9993802309036255,
+   "mqa_logp": -0.000330503738950938,
+   "caption_logp": -0.0007792766555212438
+  },
+  "77": {
+   "concepts": {
+    "Atmospheric music": 0.999525785446167,
+    "Violin playing": 0.9704852104187012,
+    "Background mood": 0.9998213648796082
+   },
+   "mqa": 0.9899441202481588,
+   "caption_level": 0.996205747127533,
+   "mqa_logp": -0.011132418895916393,
+   "caption_logp": -0.004519886802881956
+  },
+  "78": {
+   "concepts": {
+    "rock music": 0.07701023668050766,
+    "viola": 0.9571068286895752,
+    "scifi mood": 0.9998169541358948
+   },
+   "mqa": 0.6779780065019926,
+   "caption_level": 0.04216300696134567,
+   "mqa_logp": -0.8700313242055321,
+   "caption_logp": -3.1678528785705566
+  },
+  "79": {
+   "concepts": {
+    "soft latin music": 0.9886203408241272,
+    "synthesizer": 0.9992944002151489,
+    "gentle rhythms": 0.9984511137008667,
+    "smooth, flowing melodies": 0.9771262407302856,
+    "calm and relaxed atmosphere": 0.9990466237068176
+   },
+   "mqa": 0.9925077438354493,
+   "caption_level": 0.8502289652824402,
+   "mqa_logp": -0.008142286795191467,
+   "caption_logp": -0.16467611491680145
+  },
+  "80": {
+   "concepts": {
+    "dancefloor-focused": 0.9962630867958069,
+    "chiptune music": 0.9997512698173523,
+    "slideguitar": 0.9570045471191406,
+    "retro vibe": 0.9999119639396667,
+    "energetic mood": 0.8135232329368591,
+    "pixelated melodies": 0.999589204788208,
+    "crisp rhythms": 0.892756462097168
+   },
+   "mqa": 0.9512571096420288,
+   "caption_level": 0.9981065988540649,
+   "mqa_logp": -0.053075756187484203,
+   "caption_logp": -0.0022006388753652573
+  },
+  "81": {
+   "concepts": {
+    "psychedelic rock": 0.9984459280967712,
+    "orchestra": 0.28011274337768555,
+    "swirling textures": 0.9968169331550598,
+    "hallucinogenic effects": 0.9988996982574463,
+    "dynamic shifts": 0.912909209728241,
+    "electrifying atmosphere": 0.9984234571456909,
+    "mind-expanding experience": 0.9984132051467896
+   },
+   "mqa": 0.8834315964153835,
+   "caption_level": 0.9917260408401489,
+   "mqa_logp": -0.19681218725496105,
+   "caption_logp": -0.010369894094765186
+  },
+  "82": {
+   "concepts": {
+    "dancepop genre": 0.9990048408508301,
+    "melancholic mood": 0.9938865900039673,
+    "Hammond organ": 0.9983892440795898,
+    "nostalgic melodies": 0.9994436502456665,
+    "rhythmic drive": 0.851753830909729,
+    "emotional tone": 0.8515710830688477
+   },
+   "mqa": 0.9490082065264384,
+   "caption_level": 0.5930815935134888,
+   "mqa_logp": -0.05593727378679129,
+   "caption_logp": -0.526450514793396
+  },
+  "83": {
+   "concepts": {
+    "thrash metal music": 0.753527820110321,
+    "vibraphone": 0.9942337274551392,
+    "aggressive rhythms": 0.46692192554473877,
+    "film-themed atmosphere": 0.9996597766876221,
+    "sharp sonic contrasts": 0.9964798092842102
+   },
+   "mqa": 0.8421646118164062,
+   "caption_level": 0.0022002358455210924,
+   "mqa_logp": -0.21203118229750545,
+   "caption_logp": -6.120477199554443
+  },
+  "84": {
+   "concepts": {
+    "instrumental hip hop": 0.09613855928182602,
+    "mandolin": 0.7289103269577026,
+    "calm mood": 0.9994695782661438
+   },
+   "mqa": 0.6081728215018908,
+   "caption_level": 0.0021928022615611553,
+   "mqa_logp": -0.8875366263479615,
+   "caption_logp": -6.123333930969238
+  },
+  "85": {
+   "concepts": {
+    "worldfusion music": 0.9987394213676453,
+    "ukulele lead": 0.9998548030853271,
+    "emotional tone": 0.9732839465141296,
+    "tender phrasing": 0.9996282458305359,
+    "gentle tonal textures": 0.9998787045478821
+   },
+   "mqa": 0.994277024269104,
+   "caption_level": 0.9803493618965149,
+   "mqa_logp": -0.006397473241668195,
+   "caption_logp": -0.02123754657804966
+  },
+  "86": {
+   "concepts": {
+    "nostalgic 70s music": 0.9994527101516724,
+    "warm atmospheric pad": 0.9999696612358093,
+    "emotional, reflective mood": 0.9995681643486023
+   },
+   "mqa": 0.999663511912028,
+   "caption_level": 0.9996461868286133,
+   "mqa_logp": -0.0007890468890157839,
+   "caption_logp": -0.0008415543707087636
+  },
+  "87": {
+   "concepts": {
+    "melodic latin music": 0.563089907169342,
+    "sampler": 0.997929036617279,
+    "rhythmic patterns": 0.18602104485034943,
+    "smooth, flowing melodies": 0.9045149683952332,
+    "warm, inviting atmosphere": 0.9994457364082336
+   },
+   "mqa": 0.7302001386880874,
+   "caption_level": 0.011022456921637058,
+   "mqa_logp": -0.473256445187144,
+   "caption_logp": -4.509261131286621
+  },
+  "88": {
+   "concepts": {
+    "groovy 70s track": 0.9998159408569336,
+    "sampled beats": 0.9996273517608643,
+    "smooth rhythms": 0.9961003065109253,
+    "nostalgic textures": 0.9995318651199341,
+    "laid-back, relaxed vibe": 0.9998810291290283
+   },
+   "mqa": 0.9989912986755372,
+   "caption_level": 0.9969432950019836,
+   "mqa_logp": -0.0012525872909463942,
+   "caption_logp": -0.0037298533134162426
+  },
+  "89": {
+   "concepts": {
+    "commercial rock track": 0.9994261860847473,
+    "percussive focus": 0.9984447360038757,
+    "upbeat energy": 0.9908633232116699,
+    "accessible vibe": 0.9972342848777771,
+    "rhythmic drive": 0.9991121888160706,
+    "catchy energy": 0.9993107318878174
+   },
+   "mqa": 0.997398575146993,
+   "caption_level": 0.9385238289833069,
+   "mqa_logp": -0.002968177509804567,
+   "caption_logp": -0.06523564457893372
+  },
+  "90": {
+   "concepts": {
+    "retro chanson": 0.9964483380317688,
+    "prominent bass line": 0.9996646046638489,
+    "nostalgic atmosphere": 0.999434232711792,
+    "timeless melodies": 0.2710568308830261,
+    "laid-back, classic feel": 0.9965805411338806
+   },
+   "mqa": 0.8526369094848633,
+   "caption_level": 0.9309816956520081,
+   "mqa_logp": -0.2634674702538177,
+   "caption_logp": -0.07461439073085785
+  },
+  "91": {
+   "concepts": {
+    "instrumental hip hop": 0.8352222442626953,
+    "stringed instruments": 0.9987351894378662,
+    "powerful mood": 0.9920986294746399
+   },
+   "mqa": 0.9420186877250671,
+   "caption_level": 0.004085403401404619,
+   "mqa_logp": -0.06357503014927109,
+   "caption_logp": -5.500934600830078
+  },
+  "92": {
+   "concepts": {
+    "chanson music": 0.10819883644580841,
+    "dark mood": 0.9989721775054932,
+    "bass": 0.9452291131019592,
+    "introspective atmosphere": 0.9989715814590454,
+    "quiet, reflective tone": 0.9998860359191895
+   },
+   "mqa": 0.8102515488862991,
+   "caption_level": 0.7749441266059875,
+   "mqa_logp": -0.45715229437919336,
+   "caption_logp": -0.2584328353404999
+  },
+  "93": {
+   "concepts": {
+    "mysterious breakbeat": 0.9994763731956482,
+    "electric guitar": 0.9788824915885925,
+    "rhythmic atmosphere": 0.9986600279808044,
+    "sharp, off-kilter beats": 0.9991567134857178,
+    "subtle harmonic undercurrents": 0.979056179523468
+   },
+   "mqa": 0.9910463571548462,
+   "caption_level": 0.970457136631012,
+   "mqa_logp": -0.009571799368131906,
+   "caption_logp": -0.03252178058028221
+  },
+  "94": {
+   "concepts": {
+    "instrumental rock music": 0.9978711009025574,
+    "drum machine beats": 0.9995516538619995,
+    "suspenseful mood": 0.9991002082824707
+   },
+   "mqa": 0.9988409876823425,
+   "caption_level": 0.9863729476928711,
+   "mqa_logp": -0.001477697107475251,
+   "caption_logp": -0.015134924091398716
+  },
+  "95": {
+   "concepts": {
+    "spiritual techno": 0.9995191097259521,
+    "smooth pad instrument": 0.9998876452445984,
+    "serene atmosphere": 0.9999071955680847,
+    "reflective mood": 0.9998102784156799
+   },
+   "mqa": 0.9997810572385788,
+   "caption_level": 0.9666875004768372,
+   "mqa_logp": -0.0005184096007724293,
+   "caption_logp": -0.03440651670098305
+  },
+  "96": {
+   "concepts": {
+    "house music": 0.9850209355354309,
+    "vibraphone": 0.9976943135261536,
+    "smooth, melodic tones": 0.9963418245315552,
+    "warm, inviting atmosphere": 0.9978183507919312
+   },
+   "mqa": 0.9942188560962677,
+   "caption_level": 0.12615124881267548,
+   "mqa_logp": -0.006479119008872658,
+   "caption_logp": -2.073667526245117
+  },
+  "97": {
+   "concepts": {
+    "soft rock music": 0.9884504079818726,
+    "sampler": 0.9962839484214783,
+    "gentle, relaxed atmosphere": 0.9988236427307129,
+    "minimalistic textures": 0.999091386795044,
+    "subtle sonic layers": 0.9744028449058533
+   },
+   "mqa": 0.9914104461669921,
+   "caption_level": 0.031028730794787407,
+   "mqa_logp": -0.010111957532353699,
+   "caption_logp": -3.4754574298858643
+  },
+  "98": {
+   "concepts": {
+    "electronic music": 0.9998401999473572,
+    "acoustic guitar": 0.9985033869743347,
+    "suspenseful mood": 0.9995829463005066
+   },
+   "mqa": 0.9993088444073995,
+   "caption_level": 0.05316862836480141,
+   "mqa_logp": -0.0010233447731782992,
+   "caption_logp": -2.9367802143096924
+  },
+  "99": {
+   "concepts": {
+    "experimental music": 0.9988172650337219,
+    "focus on beat": 0.99123615026474,
+    "fantasy mood": 0.9981648921966553
+   },
+   "mqa": 0.9960727691650391,
+   "caption_level": 0.9557151794433594,
+   "mqa_logp": -0.004389801062643528,
+   "caption_logp": -0.0466918908059597
+  }
+ }
+}
