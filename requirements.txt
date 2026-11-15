@@ -1,0 +1,11 @@
+# Generation env (.venv): Stable Audio Open sampling, CFG and APG.  Python 3.11.
+# Install torch first:  pip install torch==2.11.0 torchaudio==2.11.0 --index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0
+torchaudio==2.11.0
+diffusers==0.41.0
+transformers==5.20.1
+accelerate==1.15.0
+torchsde==0.2.6
+sentencepiece==0.2.2
+soundfile==0.14.0
+numpy==2.4.6

@@ -1,0 +1,15 @@
+# Evaluation env (.venv-eval): CLAP retrieval, av-benchmark (FD/KL/CLAP), MQAScore judge.  Python 3.11.
+# Install torch first:  pip install torch==2.8.0 torchaudio==2.8.0 torchvision==0.23.0 --index-url https://download.pytorch.org/whl/cu128
+#   (torchaudio>=2.9 needs torchcodec+FFmpeg to load audio, which av-benchmark relies on)
+# Then av-benchmark (pulls in laion-clap, msclap, PaSST, PANNs, ...):
+#   git clone https://github.com/hkchengrex/av-benchmark external/av-benchmark
+#   git -C external/av-benchmark checkout f351b9a
+#   pip install -e external/av-benchmark
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
+transformers==4.57.6   # <5: MS-CLAP needs tokenizer.encode_plus; also provides Qwen2-Audio
+librosa==0.11.0
+soundfile==0.14.0
+numpy==2.4.6
+scipy==1.17.1

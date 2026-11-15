@@ -5,6 +5,7 @@ export PATH=$HOME/.local/bin:$PATH
 cd "$(dirname "$0")"
 CKPT=external/av-benchmark/weights/music_audioset_epoch_15_esc_90.14.pt
 
+[ -d external/av-benchmark ] || { git clone https://github.com/hkchengrex/av-benchmark external/av-benchmark && git -C external/av-benchmark checkout -q f351b9a; }
 [ -x .venv-eval/bin/python ] || uv venv --python 3.11 .venv-eval
 # torchaudio>=2.9 needs torchcodec+FFmpeg to load audio; av-benchmark uses torchaudio.load
 uv pip install --python .venv-eval/bin/python torch==2.8.0 torchaudio==2.8.0 torchvision==0.23.0 --index-url https://download.pytorch.org/whl/cu128
